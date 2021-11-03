@@ -115,7 +115,7 @@ body {
       -ms-flex-align: center;
           align-items: center;
   right: 20px;
-  background-image: url("/images/icon-arrow-down.svg");
+  background-image: url("https://raw.githubusercontent.com/Alucard2169/FAQ-page-frontend-Mentor/2932347ce7aa3986c5c8beb6ac9bee744a601e8c/images/icon-arrow-down.svg");
   background-size: contain;
   background-repeat: no-repeat;
   -webkit-transition: 200ms ease-out;
