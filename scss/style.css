@@ -211,7 +211,7 @@ body {
     transition: 200ms ease-in-out;
   }
   .main-image-shadow-desktop{
-    .main-image-shadow-desktop
+    margin-right: 15rem;
   }
   .image-desktop:hover .box {
     -webkit-transition: 200ms ease-in-out;
